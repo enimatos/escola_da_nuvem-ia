@@ -7,7 +7,7 @@
 
 """
 
-codigo, quantidade = map(int,
+codigo, quantidade = map(int, 
                           input("Digite o código do produto e a quantidade (separados por espaço): ").split())
 
 precos = {
